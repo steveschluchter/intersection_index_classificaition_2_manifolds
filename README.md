@@ -1,4 +1,4 @@
-# rotation-schemes-and-2-manifolds
+# applications of topological graph theory and intersection theory to 2-manifold learning
 
 8.Jan.2024
 
